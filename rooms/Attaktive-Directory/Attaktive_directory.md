@@ -1,4 +1,4 @@
-# TryHackMe: Attacktive Directory — Complete Active Directory Compromise Walkthrough
+# TryHackMe: Attacktive Directory — Complete Walkthrough
 
 > A beginner-friendly yet in-depth walkthrough demonstrating how an attacker can compromise an Active Directory environment—from initial reconnaissance to full Domain Administrator access.
 
