@@ -382,5 +382,4 @@ Legacy is a museum piece, but the lessons are timeless:
 
 ---
 
-> ✍️ *Writeup for educational purposes on an authorized HackTheBox lab machine.*
 > *Never run these techniques against systems you do not have explicit permission to test.*
