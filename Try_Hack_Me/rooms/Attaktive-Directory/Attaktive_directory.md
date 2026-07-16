@@ -98,7 +98,7 @@ Once connected, verify connectivity to the target machine before beginning enume
 
 I also created a **4-hour in-depth YouTube walkthrough** explaining every concept and command in detail.
 
-📺 **YouTube:** *(Add your link here)*
+📺 **YouTube:** *https://youtu.be/iketgs0H2yA*
 
 ---
 
