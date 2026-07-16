@@ -518,6 +518,6 @@ Attacktive Directory remains one of the best beginner-friendly Active Directory 
 
 If you're preparing for certifications such as **PNPT**, **CRTP**, **OSCP**, or pursuing a career in **Red Teaming** or **Active Directory penetration testing**, this room is an excellent starting point.
 
-If you found this walkthrough helpful, consider leaving a ⭐ on the repository. Feedback, suggestions, and discussions are always welcome.
+Feedback, suggestions, and discussions are always welcome.
 
 Happy learning, and happy hacking! 🚀
